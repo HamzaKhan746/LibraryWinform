@@ -1,0 +1,18 @@
+C:\Users\Hamza Khan\Desktop\GIthub\SCHOOL MANAGEMENT\SCHOOL MANAGEMENT\obj\Debug\Library Management.csproj.AssemblyReference.cache
+C:\Users\Hamza Khan\Desktop\GIthub\SCHOOL MANAGEMENT\SCHOOL MANAGEMENT\obj\Debug\SCHOOL_MANAGEMENT.ADD.resources
+C:\Users\Hamza Khan\Desktop\GIthub\SCHOOL MANAGEMENT\SCHOOL MANAGEMENT\obj\Debug\SCHOOL_MANAGEMENT.Issue_return_Form.resources
+C:\Users\Hamza Khan\Desktop\GIthub\SCHOOL MANAGEMENT\SCHOOL MANAGEMENT\obj\Debug\SCHOOL_MANAGEMENT.LibRequest.resources
+C:\Users\Hamza Khan\Desktop\GIthub\SCHOOL MANAGEMENT\SCHOOL MANAGEMENT\obj\Debug\SCHOOL_MANAGEMENT.LOGINFORM.resources
+C:\Users\Hamza Khan\Desktop\GIthub\SCHOOL MANAGEMENT\SCHOOL MANAGEMENT\obj\Debug\SCHOOL_MANAGEMENT.Books.resources
+C:\Users\Hamza Khan\Desktop\GIthub\SCHOOL MANAGEMENT\SCHOOL MANAGEMENT\obj\Debug\SCHOOL_MANAGEMENT.Member1.resources
+C:\Users\Hamza Khan\Desktop\GIthub\SCHOOL MANAGEMENT\SCHOOL MANAGEMENT\obj\Debug\SCHOOL_MANAGEMENT.Properties.Resources.resources
+C:\Users\Hamza Khan\Desktop\GIthub\SCHOOL MANAGEMENT\SCHOOL MANAGEMENT\obj\Debug\SCHOOL_MANAGEMENT.Library_menu.resources
+C:\Users\Hamza Khan\Desktop\GIthub\SCHOOL MANAGEMENT\SCHOOL MANAGEMENT\obj\Debug\SCHOOL_MANAGEMENT.User.resources
+C:\Users\Hamza Khan\Desktop\GIthub\SCHOOL MANAGEMENT\SCHOOL MANAGEMENT\obj\Debug\SCHOOL_MANAGEMENT.viewdetail.resources
+C:\Users\Hamza Khan\Desktop\GIthub\SCHOOL MANAGEMENT\SCHOOL MANAGEMENT\obj\Debug\Library Management.csproj.GenerateResource.cache
+C:\Users\Hamza Khan\Desktop\GIthub\SCHOOL MANAGEMENT\SCHOOL MANAGEMENT\obj\Debug\Library Management.csproj.CoreCompileInputs.cache
+C:\Users\Hamza Khan\Desktop\GIthub\SCHOOL MANAGEMENT\SCHOOL MANAGEMENT\bin\Debug\Library Management.exe.config
+C:\Users\Hamza Khan\Desktop\GIthub\SCHOOL MANAGEMENT\SCHOOL MANAGEMENT\bin\Debug\Library Management.exe
+C:\Users\Hamza Khan\Desktop\GIthub\SCHOOL MANAGEMENT\SCHOOL MANAGEMENT\bin\Debug\Library Management.pdb
+C:\Users\Hamza Khan\Desktop\GIthub\SCHOOL MANAGEMENT\SCHOOL MANAGEMENT\obj\Debug\Library Management.exe
+C:\Users\Hamza Khan\Desktop\GIthub\SCHOOL MANAGEMENT\SCHOOL MANAGEMENT\obj\Debug\Library Management.pdb
